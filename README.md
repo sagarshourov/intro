@@ -12,10 +12,11 @@
 - **DevOps:** Managing deployment pipelines, CI/CD processes, and cloud infrastructure on platforms like AWS and DigitalOcean.
 
 ### 🌟 Recent Projects
-- **CRM System:** A custom-built CRM solution designed to streamline business operations and improve client relationship management.
-- **Client Portal:** A secure and intuitive portal that enhances client interactions and facilitates seamless communication.
+- **[CRM System](https://www.upwork.com/fl/sagarroy?p=1722556143058481152):** A custom-built CRM solution designed to streamline business operations and improve client relationship management.
+- **[Client Portal](https://www.upwork.com/fl/sagarroy?p=1653618519598628864):** A secure and intuitive portal that enhances client interactions and facilitates seamless communication.
+- **[Microcredit System](https://www.upwork.com/fl/sagarroy?p=1322409903824916480):** A comprehensive microcredit management platform that supports financial institutions in delivering microfinance services effectively.
 
-You can check out more about my work on my [Upwork profile](https://www.upwork.com/freelancers/sagarroy).
+You can explore more about my work on my [Upwork profile](https://www.upwork.com/freelancers/sagarroy).
 
 ### 💬 Let's Connect
 Feel free to reach out if you're looking for collaboration, consultation, or just to chat about tech and innovation. I'm always excited to work on challenging projects and bring ideas to life!
@@ -23,6 +24,7 @@ Feel free to reach out if you're looking for collaboration, consultation, or jus
 ---
 
 🔗 **Connect with me:**
-- LinkedIn: [linkedin.com/in/sagar-roy](https://www.linkedin.com/in/sagar-roy)
+- Personal Website: [sagarroy.com](https://sagarroy.com)
+- Stack Overflow: [stackoverflow.com/users/8056982/sagar-roy](https://stackoverflow.com/users/8056982/sagar-roy)
 - Upwork: [upwork.com/freelancers/sagarroy](https://www.upwork.com/freelancers/sagarroy)
 
